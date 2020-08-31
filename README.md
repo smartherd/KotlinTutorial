@@ -69,7 +69,12 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - Elvis
     - Lateinit keyword
     - Lazy delegation and 'lateinit' vs. 'lazy'
-    - 
+13. Scope Functions
+    - with
+    - apply
+    - let
+    - also
+    - run
 13. Conclusion 
 
 ## Authors 

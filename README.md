@@ -75,7 +75,19 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - let
     - also
     - run
-13. Conclusion 
+14. Coroutines
+    - What are Coroutines? How are they related to Threads? 
+    - launch, async, runBlocking, withContext, withTimeoutOrNull, 
+    - Suspending function 
+    - Cancellation and Timeouts 
+    - Cooperative suspending functions and isActive flag
+    - Exception Handling in Coroutines 
+    - Sequential execution of suspending function in Coroutines 
+    - Concurrency within Coroutine 
+    - lazy 'async'
+    - CoroutineScope and CoroutineContext 
+    - Dispacthers: Confined dispatcher, Default Dispatcher, and Unconfined Displatcher 
+15. Conclusion 
 
 ## Authors 
 

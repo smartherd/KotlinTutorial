@@ -4,7 +4,7 @@ fun main() = runBlocking {    // Creates a blocking coroutine that executes in c
 
     println("Main program starts: ${Thread.currentThread().name}")  // main thread
 
-    val job: Job = launch {     // Thread T1: Creates a non-blocking coroutine
+    val job: Job = launch {     // Thread main: Creates a non-blocking coroutine
         for (i in 0..500) {
             print("$i.")
             yield()     // or use delay() or any other suspending function as per your need.

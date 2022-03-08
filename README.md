@@ -46,6 +46,8 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - Interface 
     - Data Class
     - Object Declaration
+    - Enum class 
+    - Sealed class
     - Companion Object
 9. Functional Programming in Koltin
     - Lambdas
